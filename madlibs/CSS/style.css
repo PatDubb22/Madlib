@@ -1,0 +1,63 @@
+body{
+	margin-right: auto;
+	margin-left: auto;
+}
+#container{ 
+	margin-right: auto;
+	margin-left: auto;
+	width: 784px;
+	height:900px;
+	border: solid 5px #000;
+}
+form {
+	width: 300px;
+	font: 1em Arial, Helvetica, sans-serif;
+	color: #000;
+}
+
+img {
+	display: block;
+	width: 750px;
+	height: 150px;
+
+}
+legend{
+	text-align: center;
+	font: 20px sans-serif;
+	font-weight: bold;
+
+}
+fieldset{
+	border: none;
+
+}
+#inputleft {
+	width: 300px;
+	float: right;
+}
+
+.text {
+	font: Arial, Helvetica, sans-serif;
+	font-size: large;
+	padding-left: 300px;
+	
+}
+#nounOne,#nounTwo,#nounThree,#animal,#nounFour,#nounFive,#verbOne,#nounSix,#nounSeven,#nounEight,#verbTwo {
+	font-size: 20px;
+	color: blue;
+	margin-bottom: 5px;
+    display: block;
+    padding: 4px;
+    border: solid 1px #85b1de;
+    width: 300px;
+}
+
+.button {
+	margin-top:10px;
+	width:140px;
+	height:30px;
+	color:#FFFFFF;
+	background-color:#666666;
+	border:thin solid #000;
+	border-radius:1px;
+}
