@@ -24,7 +24,7 @@ fclose($myfile);*/
 
 	<body>
 		<div id = "container">
-			<div><img src="img/madlibs-logo.png" alt="madlibsLogo"/></div>
+			<div><img src="/madlibs/Image/MadLibs-Logo.png" alt="madlibsLogo"/></div>
 		
 				<form action="returnMadlib.php" method="get">
 				
