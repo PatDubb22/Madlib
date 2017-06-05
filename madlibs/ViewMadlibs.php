@@ -26,7 +26,7 @@ fclose($myfile);*/
 		<div id = "container">
 			<div><img src="/madlibs/Image/MadLibs-Logo.png" alt="madlibsLogo"/></div>
 		
-				<form action="returnMadlib.php" method="get">
+				<form  method="get" action="returnMadlib.php">
 				
 				<fieldset>
 				
@@ -88,7 +88,7 @@ fclose($myfile);*/
 							<input type="text" name="verbTwo" id="verbTwo" value="" />
 						</div>
 				
-					<input type="submit" name="submit" class ="button" id="submit" value="Submit Form" />
+					<input type="submit" name="Submit" />
 
 				</fieldset>
 				</form>
